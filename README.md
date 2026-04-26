@@ -12,13 +12,6 @@ I am currently in the very early stages of learning programming and using this r
 
 ---
 
-## 🧠 Topics covered so far
-- Variables
-- Input / Output
-- Conditional statements (if / else)
-
----
-
 ## 🎯 Goal
 To build a strong foundation in Python and gradually move into:
 - Automation scripts
